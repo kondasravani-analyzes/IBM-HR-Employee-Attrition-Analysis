@@ -183,4 +183,4 @@ Conclusion
 This project demonstrates the effective use of Microsoft Excel for HR data analysis. By combining Excel formulas, Pivot Tables, Pivot Charts, slicers, and KPI cards, the dashboard transforms raw employee data into meaningful business insights. The analysis helps identify workforce distribution, salary patterns, and employee attrition trends, enabling better HR decision-making.	
 	
 	
-<img width="3553" height="2191" alt="image" src="https://github.com/user-attachments/assets/2294835c-31f5-4b62-a42c-67f15079a15a" />
+
