@@ -111,8 +111,76 @@ This project is currently under development and will be expanded with Pivot Tabl
 
 ---
 
-## 👩‍💻 Author
-
-**Sravani Konda**
-
-Aspiring Data Analyst | SQL | Excel | Power BI
+Pivot Tables	
+	
+Average Monthly Income Analysis	
+Employee Count Analysis	
+Department Analysis	
+Job Role Analysis	
+Gender Analysis	
+Performance Rating Analysis	
+Employee Attrition Analysis	
+	
+Dashboard Features	
+	
+Pivot Charts	
+Slicers	
+KPI Cards	
+Interactive Dashboard	
+	
+	
+	
+Business Questions Answered	
+	
+1. What is the average monthly income by department?	
+2. How many employees work in each department?	
+3. What is the average monthly income by job role?	
+4. What is the average monthly income by gender?	
+5. What is the average monthly income by performance rating?	
+6. Which department has the highest employee attrition?	
+	
+	
+	
+Key Business Insights	
+	
+Sales department has the highest average monthly income (₹6,959.17), while Research & Development has the lowest average monthly income.	
+Research & Development is the largest department with 961 employees.	
+Managers receive the highest average monthly income among all job roles.	
+Female employees have a slightly higher average monthly income than male employees.	
+Research & Development recorded the highest employee attrition, followed by Sales.	
+The dashboard provides an interactive view of employee distribution, salary trends, and attrition using Pivot Charts and slicers.	
+	
+	
+	
+Dashboard Components	
+	
+KPI Cards	
+	
+Total Employees	
+Average Monthly Income	
+Total Attrition	
+Total Departments	
+	
+Pivot Charts	
+	
+Average Monthly Income by Department	
+Employee Count by Department	
+Average Monthly Income by Job Role	
+Average Monthly Income by Gender	
+Average Monthly Income by Performance Rating	
+Employee Attrition by Department	
+	
+Interactive Features	
+	
+Department Slicer	
+Gender Slicer	
+Attrition Slicer	
+	
+	
+	
+Conclusion	
+	
+This project demonstrates the effective use of Microsoft Excel for HR data analysis. By combining Excel formulas, Pivot Tables, Pivot Charts, slicers, and KPI cards, the dashboard transforms raw employee data into meaningful business insights. The analysis helps identify workforce distribution, salary patterns, and employee attrition trends, enabling better HR decision-making.	
+	
+	
+<img width="3553" height="2191" alt="image" src="https://github.com/user-attachments/assets/2294835c-31f5-4b62-a42c-67f15079a15a" />
